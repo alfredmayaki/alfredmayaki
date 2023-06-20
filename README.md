@@ -1,5 +1,5 @@
 - 👋🏾 Hi, I’m @alfredmayaki
-- 👀 I’m interested in Labour Economics
+- 👀 I’m interested in Economics
 - 🌱 I’m currently learning Spatial Econometrics in R
 - 💞️ I’m looking to collaborate on Energy and Infrastructure related projects
 - 📫 How to reach me alfred.mayaki@ibrecruitment.com
