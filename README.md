@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alfredmayaki
+- 👋🏾 Hi, I’m @alfredmayaki
 - 👀 I’m interested in Labour Economics
 - 🌱 I’m currently learning Spatial Econometrics in R
 - 💞️ I’m looking to collaborate on Energy and Infrastructure related projects
