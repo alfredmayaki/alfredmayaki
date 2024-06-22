@@ -1,7 +1,7 @@
 - 👋🏾 Hi, I’m @alfredmayaki
 - 👀 I’m interested in Economics
 - 🌱 I’m currently learning Spatial Econometrics in R
-- 💞️ I’m looking to collaborate on Labour Economics and Infrastructure-related research publications.
+- 💞️ I’m looking to collaborate on Labour Economics and HR-related research publications.
 - 📫 How to reach me alfred.mayaki@ou.ac.uk
 
 <!---
