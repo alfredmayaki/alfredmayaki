@@ -1,8 +1,8 @@
 - 👋🏾 Hi, I’m @alfredmayaki
 - 🎓 I'm at The Open University Business School
-- 👀 I’m interested in HRM, AOB, and Economics
-- 🌱 I’m currently learning Spatial Econometrics in R
-- 💞️ I’m looking to collaborate on Labour economics-related research.
+- 👀 I’m interested in HRM, AOB, and Labour Economics
+- 🌱 I’m currently learning Econometrics in R
+- 💞️ I’m looking to collaborate on research related to wage growth
 - 📫 How to reach me alfred.mayaki@ou.ac.uk
 
 <!---
