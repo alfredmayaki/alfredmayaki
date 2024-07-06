@@ -1,5 +1,5 @@
 - 👋🏾 Hi, I’m @alfredmayaki
-- 🌹  I'm the Vice-Chair of Camberwell & Peckham CLP
+- 🌹   I'm the Vice-Chair of Camberwell & Peckham CLP
 - 👀 I’m interested in HRM, AOB, and Labour Economics
 - 🌱 I’m currently learning Econometrics in R
 - 💞️ I’m looking to collaborate on research related to wage growth
