@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alfredmayaki
+- 👋🏾 Hi, I’m @alfredmayaki
 - 📐 I'm a Labor Economist and a Royal Economic Society member
 - 📫 How to reach me: alfred.mayaki@ou.ac.uk
 <!---
