@@ -1,5 +1,5 @@
 - 👋🏾 Hi, I’m @alfredmayaki
-- 📐 I'm a Labor Economist and a Royal Economic Society member
+- 📐 I'm an Economist whose work is centered on HRM, work, and organisation. I am a member of the Royal Economic Society.
 - 📫 How to reach me: alfred.mayaki@ou.ac.uk
 <!---
 alfredmayaki/alfredmayaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
